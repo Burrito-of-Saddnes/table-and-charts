@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "id": 4,
+      "name": "Демидов Алексей",
+      "gender": "male",
+      "age": "50",
+      "address": "Uz",
+      "family": {
+        "name": "Девидова Александра",
+        "gender": "female",
+        "age": "40",
+        "address": "Uz"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Воронцов Владимир",
+      "gender": "male",
+      "age": "25",
+      "address": "Kz",
+      "family": {
+        "name": "Воронцова Евгения",
+        "gender": "female",
+        "age": "25",
+        "address": "Kz"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Васильева Наталья",
+      "gender": "female",
+      "age": "30",
+      "address": "Rus",
+      "family": {
+        "name": "Васильев Денис",
+        "gender": "male",
+        "age": "30",
+        "address": "Kz"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Островская Светлана",
+      "gender": "female",
+      "age": "35",
+      "address": "Us",
+      "family": {
+        "name": "Островский Даниил",
+        "gender": "male",
+        "age": "40",
+        "address": "By"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Козлова Тамара",
+      "gender": "female",
+      "age": "20",
+      "address": "By",
+      "family": {
+        "name": "Козлов Роман",
+        "gender": "male",
+        "age": "20",
+        "address": "Uz"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Евдокимова Любовь",
+      "gender": "female",
+      "age": "50",
+      "address": "Rus",
+      "family": {
+        "name": "Евдокимов Роман",
+        "gender": "male",
+        "age": "55",
+        "address": "Us"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Винокурова Дарья",
+      "gender": "female",
+      "age": "40",
+      "address": "Us",
+      "family": {
+        "name": "Винокуров Виталий",
+        "gender": "male",
+        "age": "40",
+        "address": "Kz"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Винокурова Дарья",
+      "gender": "female",
+      "age": "40",
+      "address": "Us",
+      "family": {
+        "name": "Винокуров Виталий",
+        "gender": "male",
+        "age": "40",
+        "address": "Kz"
+      }
+    },
+    {
+      "name": "sad",
+      "gender": "male",
+      "age": "1",
+      "address": "asd",
+      "family": {
+        "name": "asd",
+        "gender": "female",
+        "age": "2",
+        "address": "sad"
+      },
+      "id": 12
+    }
+  ]
+}
